@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9a6f2e3_06e904ab",
+        "filename": "helloGerrit.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1038963
+      },
+      "writtenOn": "2025-07-29T02:28:49Z",
+      "side": 1,
+      "message": "change it",
+      "revId": "8f9570489b2193aaf9304ae7e64fc4301642aabf",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
